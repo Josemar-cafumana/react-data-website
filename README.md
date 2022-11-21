@@ -2,9 +2,7 @@
 - TailwindCss
 - React-typed
 
-
-*[Visualizar Site](https://react-data-website.netlify.app/)
-
+[Visualizar Site](https://react-data-website.netlify.app/)
 
 ![Screenshot 1](https://raw.githubusercontent.com/Josemar-cafumana/react-data-website/main/src/Assets/img-1.png)
 
