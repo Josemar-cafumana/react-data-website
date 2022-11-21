@@ -5,10 +5,6 @@
 
 ![Screenshot 1](https://raw.githubusercontent.com/Josemar-cafumana/react-data-website/main/src/Assets/img-1.png)
 
-## Mobile Version
-
-![Screenshot 2](https://github.com/Josemar-cafumana/react-data-website/blob/main/src/Assets/img-2.png)
-
 ### `npm start`
 
 Runs the app in the development mode.\
