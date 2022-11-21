@@ -7,7 +7,7 @@
 
 ## Mobile Version
 
-![Screenshot 2](https://raw.githubusercontent.com/Josemar-cafumana/react-data-website/main/src/Assets/img-2.png)
+![Screenshot 2](https://github.com/Josemar-cafumana/react-data-website/blob/main/src/Assets/img-2.png)
 
 ### `npm start`
 
